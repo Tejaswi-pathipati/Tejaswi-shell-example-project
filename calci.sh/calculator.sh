@@ -4,4 +4,4 @@ y = a-b
 z = a/b
 a = a*b 
 where a, b are 2 variables to store the values
-This is 3 step calculation
+This is 4  step calculation
